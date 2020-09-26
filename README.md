@@ -14,7 +14,7 @@ Sorry, no image with LinuxCNC for now. The last available RT kernel does not act
 * Devuan on top of Armbian, without X11: https://github.com/zwieblum/devuan-images/releases/download/20200926-1/devuan-beowulf-orangepizero-2G-2020-09-26.img.xz
 * Devuan on top of Armbian, with LinuxCNC 2.7.15:
 
-You can run LinuxCNC over SSH or forward the dispplay without SSH to your computer - or you install VNC and use that for the GUI. 
+You can run LinuxCNC over SSH or forward the display without SSH to your computer - or you install VNC and use that for the GUI. 
 
 ## All Images
 
