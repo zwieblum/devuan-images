@@ -18,7 +18,10 @@ You can run LinuxCNC over SSH or forward the dispplay without SSH to your comput
 
 ## All Images
 
-After writingthe image to your sd-card you will want to expand the image to take all the remaining space. Use `gparted`, but do not move the partition to the - otherwise you will overwrite the bootloader. 
+Write the image to the sd-card:
+`xz devuan-beowulf-orangepipcplus-tde-2.3GB-20200926.img > /dev/sdXXX`
+
+You will want to expand the image to take all the remaining space. Use `gparted`, but do not move the partition to the - otherwise you will overwrite the bootloader. 
 
 User accounts are **root** / **root** and **user** / **user**. 
 
