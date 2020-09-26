@@ -31,3 +31,4 @@ Remove my ssh key (in case I forgot): `rm /root/.ssh/autorized_keys /home/user/.
 Change keyboard: `dpkg-reconfigure keyboard-configuration`
 Change locales: `dpkg-reconfigure locales`
 TDE full installation: `aptitude install tde-trinity`
+And you might want to change the passwords ...
