@@ -5,9 +5,9 @@ This dumpyard is dedicated to my systemd-free remasterings based on devuan + ext
 ## OrangePi PC Plus
 
 * Devuan on top of Armbian, without X11: https://github.com/zwieblum/devuan-images/releases/download/20200926/devuan-beowulf-orangepipcplus-2GB-20200926.img.xz
-* Devuan on top of Armbian, with TDE:
+* Devuan on top of Armbian, with TDE: https://github.com/zwieblum/devuan-images/releases/download/20200926-2/devuan-beowulf-orangepipcplus-tde-2.3GB-20200926.img.xz
 
-Sorry, image with LinuxCNC for now. The last available RT kernel does not activate USB.
+Sorry, no image with LinuxCNC for now. The last available RT kernel does not activate USB, so no keyboard or mouse, which contradicts the purpose of having X11 on the unit.
 
 ## OrangePi Zero (LTS)
 
