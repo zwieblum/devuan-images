@@ -4,15 +4,15 @@ This dumpyard is dedicated to my systemd-free remasterings based on devuan + ext
 
 ## OrangePi PC Plus
 
-* Devuan on top of Armbian, without X11
-* Devuan on top of Armbian, with TDE
+* Devuan on top of Armbian, without X11: https://github.com/zwieblum/devuan-images/releases/tag/20200926
+* Devuan on top of Armbian, with TDE:
 
 Sorry, image with LinuxCNC for now. The last available RT kernel does not activate USB.
 
 ## OrangePi Zero (LTS)
 
-* Devuan on top of Armbian, without X11
-* Devuan on top of Armbian, with LinuxCNC 2.7.15
+* Devuan on top of Armbian, without X11: https://github.com/zwieblum/devuan-images/releases/tag/20200926-1
+* Devuan on top of Armbian, with LinuxCNC 2.7.15:
 
 You can run LinuxCNC over SSH or forward the dispplay without SSH to your computer - or you install VNC and use that for the GUI. 
 
