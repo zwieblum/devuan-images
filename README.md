@@ -2,6 +2,12 @@
 
 This dumpyard is dedicated to my systemd-free remasterings based on devuan + extras. All images default to german localisation and keymap,
 
+## Exegnulinux remasterd with LinuxCNC
+
+* Devuan based Exegnulinux wit TDE https://trinitydesktop.org with LinuxCNC 2.8 + HTML Docs, NCAM, PREEMPT Kernel, smictrl, ... and a whole toolkit to get going
+* F-Engrave, dmap2gcode, g-Code_Ripper, pycam 0.7, dxf2gcode, pcb2gcode & pcb2gcodeGUI, KiCad, Gimp, Inkscape,  Slic3r, Printrun, OpenScad ... and some more :)
+* LINK
+
 ## OrangePi PC Plus
 
 * Devuan on top of Armbian, without X11: https://github.com/zwieblum/devuan-images/releases/download/20200926/devuan-beowulf-orangepipcplus-2GB-20200926.img.xz
