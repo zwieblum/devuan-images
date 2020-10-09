@@ -1,11 +1,9 @@
 https://klepp.biz
 
 # devuan-images
-
-## amd64
-
 This dumpyard is dedicated to my systemd-free remasterings based on devuan + extras. All images default to german localisation and keymap,
 
+## amd64
 ### Exegnulinux remasterd with LinuxCNC - amd64
 
 * Devuan (no systemd, yeah!) based Exegnulinux + TDE https://trinitydesktop.org + LinuxCNC 2.8 + HTML Docs, NCAM, PREEMPT Kernel, smictrl, ... and a whole toolkit to get going
