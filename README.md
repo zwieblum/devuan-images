@@ -1,10 +1,12 @@
+https://klepp.biz
+
 # devuan-images
 
 This dumpyard is dedicated to my systemd-free remasterings based on devuan + extras. All images default to german localisation and keymap,
 
 ## Exegnulinux remasterd with LinuxCNC - amd64
 
-* Devuan based Exegnulinux wit TDE https://trinitydesktop.org with LinuxCNC 2.8 + HTML Docs, NCAM, PREEMPT Kernel, smictrl, ... and a whole toolkit to get going
+* Devuan (no systemd, yeah!) based Exegnulinux + TDE https://trinitydesktop.org + LinuxCNC 2.8 + HTML Docs, NCAM, PREEMPT Kernel, smictrl, ... and a whole toolkit to get going
 * F-Engrave, dmap2gcode, g-Code_Ripper, pycam 0.7, dxf2gcode, pcb2gcode & pcb2gcodeGUI, KiCad, Gimp, Inkscape,  Slic3r, Printrun, OpenScad ... and some more :)
 * ISO: https://github.com/zwieblum/devuan-images/releases/download/20201009/snapshot-20201008_2302.iso
 * SHA256: https://github.com/zwieblum/devuan-images/releases/download/20201009/snapshot-20201008_2302.iso.sha256
