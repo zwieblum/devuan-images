@@ -8,6 +8,7 @@ This dumpyard is dedicated to my systemd-free remasterings based on devuan + ext
 
 * Devuan (no systemd, yeah!) based Exegnulinux + TDE https://trinitydesktop.org + LinuxCNC 2.8 + HTML Docs, NCAM, PREEMPT Kernel, smictrl, ... and a whole toolkit to get going
 * F-Engrave, dmap2gcode, g-Code_Ripper, pycam 0.7, dxf2gcode, pcb2gcode & pcb2gcodeGUI, KiCad, Gimp, Inkscape,  Slic3r, Printrun, OpenScad ... and some more :)
+* Arduino IDE
 * ISO: https://github.com/zwieblum/devuan-images/releases/download/2020.11.02/snapshot-20201102_1128.iso
 * SHA256: https://github.com/zwieblum/devuan-images/releases/download/2020.11.02/snapshot-20201102_1128.iso.sha256
 
