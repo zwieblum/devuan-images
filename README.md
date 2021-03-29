@@ -1,7 +1,7 @@
 https://klepp.biz
 
 # devuan-images
-This dumpyard is dedicated to my systemd-free remasterings based on devuan + extras. All images default to german localisation and keymap. Oh, and I had the strong feeling the ISOS should get a name. So I call them "Maschinist".
+This dumpyard is dedicated to my systemd-free remasterings based on devuan + extras. All images default to german localisation and keymap. Oh, and I had the strong feeling the ISOs should get a name. So I call them "Maschinist".
 
 ## amd64
 ### Exegnulinux remasterd with LinuxCNC - amd64
