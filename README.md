@@ -50,4 +50,4 @@ TDE full installation: `aptitude install tde-trinity`
 And you might want to change the passwords ...
 
 ## Screenshots
-https://github.com/zwieblum/devuan-images/blob/master/Bildschirmfoto1.png
+![Screenshot TDE14.1](https://github.com/zwieblum/devuan-images/blob/master/Bildschirmfoto1.png)
