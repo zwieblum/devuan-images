@@ -48,3 +48,6 @@ Change keyboard: `dpkg-reconfigure keyboard-configuration`
 Change locales: `dpkg-reconfigure locales`
 TDE full installation: `aptitude install tde-trinity`
 And you might want to change the passwords ...
+
+## Screenshots
+https://github.com/zwieblum/devuan-images/blob/master/Bildschirmfoto1.png
