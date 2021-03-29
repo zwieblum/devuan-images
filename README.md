@@ -18,6 +18,8 @@ RTAI Kernel:
 * ISO: https://github.com/zwieblum/devuan-images/releases/download/2021.04/maschinist_rtai_2021-04.iso
 * SHA256: https://github.com/zwieblum/devuan-images/releases/download/2021.04/maschinist_rtai_2021-04.iso.sha256
 
+Release 2021.04 and up:  **root** / **toor** and **user** / **user**. 
+
 ## arm
 ### OrangePi PC Plus
 
@@ -41,7 +43,7 @@ Write an image to the sd-card:
 You will want to expand the image to take all the remaining space. Use `gparted`, but do not move the partition to the - otherwise you will overwrite the bootloader. 
 
 User accounts are **root** / **root** and **user** / **user**. 
-Release 2021.04 and up:  **root** / **root** and **user** / **user**. 
+Release 2021.04 and up:  **root** / **toor** and **user** / **user**. 
 
 #### Post-installation tasks:
 
