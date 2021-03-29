@@ -1,7 +1,7 @@
 https://klepp.biz
 
 # devuan-images
-This dumpyard is dedicated to my systemd-free remasterings based on devuan + extras. All images default to german localisation and keymap,
+This dumpyard is dedicated to my systemd-free remasterings based on devuan + extras. All images default to german localisation and keymap.
 
 ## amd64
 ### Exegnulinux remasterd with LinuxCNC - amd64
