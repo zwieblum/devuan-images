@@ -21,6 +21,13 @@ RTAI Kernel:
 Release 2021.04 and up:  **root** / **toor** and **user** / **user**. 
 
 ## arm
+### RaspberryPi 3+
+
+* Devuan + TDE 14.1
+* Image: https://github.com/zwieblum/devuan-images/releases/download/2021.04.rpi/rpi3+_chimaera_tde.img.xz
+
+After dd the image to your SD-card or USB-stick, boot the Pi, use "raspi-config" to maximize root partition.
+
 ### OrangePi PC Plus
 
 * Devuan on top of Armbian, without X11: https://github.com/zwieblum/devuan-images/releases/download/20200926/devuan-beowulf-orangepipcplus-2GB-20200926.img.xz
