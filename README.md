@@ -13,7 +13,11 @@ root / <no password>
 You'll need to set a root password when you first login:
 `$ sudo passwd root`
 
-And you'll most likely want to resite the root partition to fill the remaining space of your card.
+After you wrote the image to SD/USB you will most likely find it easier to do these changes from the host:
+- resize the root partition (2. partition of the image) to fill the remaining space of your card. Use gparted or what ever you prefer.
+- WLAN: you'll need to edit /etc/wpa_supplicant/wpa_supplicant.conf and enter your APs SSID and  PASSWORD.
+- copy your .ssh/id_rsa.pub to /home/pi/.ssh/authorized_keys
+
 
 ### Image: 
 https://github.com/zwieblum/devuan-images/releases/download/2021.07.29/rpi3-2021-07-29.img.xz
