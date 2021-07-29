@@ -10,13 +10,16 @@ pi / pi
 root / <no password>
 ```
 
-You'll need to set a root password when you first login:
-`$ sudo passwd root`
-
 After you wrote the image to SD/USB you will most likely find it easier to do these changes from the host:
 - resize the root partition (2. partition of the image) to fill the remaining space of your card. Use gparted or what ever you prefer.
 - WLAN: you'll need to edit /etc/wpa_supplicant/wpa_supplicant.conf and enter your APs SSID and  PASSWORD.
 - copy your .ssh/id_rsa.pub to /home/pi/.ssh/authorized_keys
+
+You'll need to set a root password when you first login:
+```
+$ sudo passwd root
+```
+
 
 
 ### Image: 
