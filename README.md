@@ -20,7 +20,7 @@ https://github.com/zwieblum/devuan-images/releases/download/2021.07.29/rpi3-2021
 
 ---
 
-## CoC desaster on LinuxCNC***
+## CoC desaster on LinuxCNC
 
 Maybe some of you have read the ongoing debate about CoC & linuxcnc. Some people think they have to play policemen for the good of the others. Well, that's not my point of view. As there is no debate allowed over that topic and these policemen think their management bull * * * t is without alternative .. well, I think my LinuxCNC ISO remaster is not wanted any more, so I have deleted all remasters for amd64/raspberrypi/Orangepi. I wish these policemen good luck in destroying communities - they will prevail, without doubt.
 
