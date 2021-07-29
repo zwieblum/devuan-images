@@ -1,6 +1,7 @@
 https://klepp.biz
 
-*** Devuan Chimaera Minimal Image ***
+***Devuan Chimaera Minimal Image***
+
 Tested on RPi3A+ / RPi3B+ / RPi 3B / RPI 3 / RPi 400**
 
 UID/PWD: 
