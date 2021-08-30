@@ -44,6 +44,9 @@ You'll need to set a root password when you first login:
 $ sudo passwd root
 ```
 
+Image: https://github.com/zwieblum/devuan-images/releases/download/2021.08.30/rpi3-2021-08-30-tde.img.xz
+SHA256: https://github.com/zwieblum/devuan-images/releases/download/2021.08.30/rpi3-2021-08-30-tde.img.xz.sha256
+
 
 
 ### Image: 
