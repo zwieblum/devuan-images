@@ -1,6 +1,6 @@
 https://klepp.biz
 
-### uploading imige right now ... will finish at ~ 21:00 GMT+2 ###
+### uploading image right now ... will finish at ~ 21:00 GMT+2 ###
 
 ## Devuan Chimaera with TDE https://trinitydesktop.org - the best desktop ever :)
 Latest image for RPi. Tested on RPi3A+ / RPi3B+ / RPi 3B / RPI 3 / RPi 400
