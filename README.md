@@ -1,8 +1,6 @@
 https://klepp.biz
 
-### uploading image right now ... will finish at ~ 21:00 GMT+2 ###
-
-## Devuan Chimaera with TDE https://trinitydesktop.org - the best desktop ever :)
+# Devuan Chimaera with TDE https://trinitydesktop.org - the best desktop ever :)
 Latest image for RPi. Tested on RPi3A+ / RPi3B+ / RPi 3B / RPI 3 / RPi 400
 
 UID/PWD:
@@ -23,14 +21,13 @@ $ sudo passwd root
 TDE Language & keyboard are set to english, console keyboard is set to german. German languagepack is installed, you can change it with Trinity Control Center / Region / Language. Or you delete /home/pi/.trinity and start with the wizzard.
 
 
-Image: https://github.com/zwieblum/devuan-images/releases/download/2021.08.30/rpi3-2021-08-30-tde.img.xz
-
-SHA256: https://github.com/zwieblum/devuan-images/releases/download/2021.08.30/rpi3-2021-08-30-tde.img.xz.sha256
+#### Image: https://github.com/zwieblum/devuan-images/releases/download/2021.08.30/rpi3-2021-08-30-tde.img.xz
+#### SHA256: https://github.com/zwieblum/devuan-images/releases/download/2021.08.30/rpi3-2021-08-30-tde.img.xz.sha256
 
 
  ![Screenshot TDE14.1](https://github.com/zwieblum/devuan-images/blob/master/snapshot2.png)
 
-## Devuan Chimaera Minimal Image
+# Devuan Chimaera Minimal Image
 
 Tested on RPi3A+ / RPi3B+ / RPi 3B / RPI 3 / RPi 400**
 
