@@ -1,6 +1,6 @@
 https://klepp.biz
 
-# Devuan Chimaera with TDE https://trinitydesktop.org - the best desktop ever :)
+## Devuan Chimaera with TDE https://trinitydesktop.org
 Latest image for RPi. Tested on RPi3A+ / RPi3B+ / RPi 3B / RPI 3 / RPi 400
 
 UID/PWD:
@@ -27,7 +27,7 @@ TDE Language & keyboard are set to english, console keyboard is set to german. G
 
  ![Screenshot TDE14.1](https://github.com/zwieblum/devuan-images/blob/master/snapshot2.png)
 
-# Devuan Chimaera Minimal Image
+## Devuan Chimaera Minimal Image
 
 Tested on RPi3A+ / RPi3B+ / RPi 3B / RPI 3 / RPi 400**
 
