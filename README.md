@@ -22,7 +22,7 @@ $ sudo passwd root
 
 TDE Language & keyboard are set to english, console keyboard is set to german. German languagepack is installed, you can change it with Trinity Control Center / Region / Language. Or you delete /home/pi/.trinity and start with the wizzard.
 
- ![Screenshot TDE14.1]
+ ![Screenshot TDE14.1](https://github.com/zwieblum/devuan-images/blob/master/snapshot2.png)
 
 ## Devuan Chimaera Minimal Image
 
