@@ -1,5 +1,29 @@
 https://klepp.biz
 
+### uploading imige right now ... will finish at ~ 21:00 GMT+2 ###
+
+## Devuan Chimaera with TDE https://trinitydesktop.org - the best desktop ever :)
+Latest image for RPi. Tested on RPi3A+ / RPi3B+ / RPi 3B / RPI 3 / RPi 400
+
+UID/PWD:
+
+pi / pi
+root / < no password >
+
+After you wrote the image to SD/USB you will most likely find it easier to do these changes from the host:
+
+- resize the root partition (2. partition of the image) to fill the remaining space of your card. Use gparted or what ever you prefer.
+- networking is managed by network-manager-tde, so just use it
+- copy your .ssh/id_rsa.pub to /home/pi/.ssh/authorized_keys
+
+You'll need to set a root password when you first login:
+
+$ sudo passwd root
+
+TDE Language & keyboard are set to english, console keyboard is set to german. German languagepack is installed, you can change it with kcontrol/Region/Language.
+
+
+
 ## Devuan Chimaera Minimal Image
 
 Tested on RPi3A+ / RPi3B+ / RPi 3B / RPI 3 / RPi 400**
