@@ -17,8 +17,8 @@ root / toor
 #### Image: http://samhain.at/devuan_tde_20240101/devuan_tde_20240101.iso.sha256
 #### SHA256: http://samhain.at/devuan_tde_20240101/devuan_tde_20240101.iso
 
-![Screenshot TDE14.2](https://github.com/zwieblum/devuan-images/blob/master/devuan_tde_20240101_0.png)
-![Screenshot TDE14.2](https://github.com/zwieblum/devuan-images/blob/master/devuan_tde_20240101_q.png)
+![How to change language on TDE14.2](https://github.com/zwieblum/devuan-images/blob/master/devuan_tde_20240101_0.png)
+![Screenshot TDE14.2](https://github.com/zwieblum/devuan-images/blob/master/devuan_tde_20240101_1.png)
 
 
 ## Devuan Chimaera with TDE https://trinitydesktop.org
