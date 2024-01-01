@@ -14,8 +14,8 @@ root / toor
 - See first screenshot on how to change languages
 - Due to filesize limitations the images are not hosted on github
 
-#### Image: http://samhain.at/devuan_tde_20240101/devuan_tde_20240101.iso.sha256
-#### SHA256: http://samhain.at/devuan_tde_20240101/devuan_tde_20240101.iso
+#### Image: https://samhain.at/devuan_tde_20240101/devuan_tde_20240101.iso.sha256
+#### SHA256: https://samhain.at/devuan_tde_20240101/devuan_tde_20240101.iso
 
 ![How to change language on TDE14.2](https://github.com/zwieblum/devuan-images/blob/master/devuan_tde_20240101_0.png)
 ![Screenshot TDE14.2](https://github.com/zwieblum/devuan-images/blob/master/devuan_tde_20240101_1.png)
