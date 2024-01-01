@@ -1,5 +1,26 @@
 https://klepp.biz
 
+## Devuan Excalibur with TDE 14.2 https://trinitydesktop.org
+Latest image for amd64. 
+
+UID/PWD:
+
+user / user
+root / toor
+
+#### Notes: 
+- Default language: German / Austrian
+- Russian and Englisch language packs are included
+- See first screenshot on how to change languages
+- Due to filesize limitations the images are not hosted on github
+
+#### Image: http://samhain.at/devuan_tde_20240101/devuan_tde_20240101.iso.sha256
+#### SHA256: http://samhain.at/devuan_tde_20240101/devuan_tde_20240101.iso
+
+![Screenshot TDE14.2](https://github.com/zwieblum/devuan-images/blob/master/devuan_tde_20240101_0.png)
+![Screenshot TDE14.2](https://github.com/zwieblum/devuan-images/blob/master/devuan_tde_20240101_q.png)
+
+
 ## Devuan Chimaera with TDE https://trinitydesktop.org
 Latest image for RPi. Tested on RPi3A+ / RPi3B+ / RPi 3B / RPI 3 / RPi 400
 
