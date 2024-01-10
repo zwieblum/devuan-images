@@ -13,9 +13,10 @@ root / toor
 - Russian and Englisch language packs are included
 - See first screenshot on how to change languages
 - Due to filesize limitations the images are not hosted on github
+- ```usermerge``` applied
 
-#### Image: https://samhain.at/devuan_tde_20240101/devuan_tde_20240101.iso.sha256
-#### SHA256: https://samhain.at/devuan_tde_20240101/devuan_tde_20240101.iso
+#### Image: https://samhain.at/devuan_tde/devuan_tde_20240110.iso.sha256
+#### SHA256: https://samhain.at/devuan_tde/devuan_tde_20240110.iso
 
 ![How to change language on TDE14.2](https://github.com/zwieblum/devuan-images/blob/master/devuan_tde_20240101_0.png)
 ![Screenshot TDE14.2](https://github.com/zwieblum/devuan-images/blob/master/devuan_tde_20240101_1.png)
